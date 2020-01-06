@@ -1,0 +1,11 @@
+${Ansi.YELLOW}      .---.        .-----------
+${Ansi.YELLOW}     /     \  __  /    ------ ${Ansi.RED}   ___   _ __   | |__            _ __    ___    ___
+${Ansi.YELLOW}    / /     \(..)/    -----   ${Ansi.RED}  / __| | '_ \  | '_ \   _____  | '_ \  / __|  / __|
+${Ansi.YELLOW}   //////   ' \/ `   ---      ${Ansi.RED} | (__  | |_) | | |_) | |_____| | |_) | \__ \ | (__
+${Ansi.YELLOW}  //// / // :    : ---        ${Ansi.RED}  \___| | .__/  |_.__/          | .__/  |___/  \___|
+${Ansi.YELLOW} // /   /  /`    '--          ${Ansi.RED}        |_|                     |_|
+${Ansi.YELLOW}//          //..\\
+${Ansi.YELLOW}       ====UU====UU===============================================================
+${Ansi.YELLOW}           '//||\\` ${application.title} - ${application.formatted-version}
+${Ansi.YELLOW}             ''``
+${Ansi.DEFAULT}

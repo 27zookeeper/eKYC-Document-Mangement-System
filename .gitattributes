@@ -1,0 +1,13 @@
+# These files are text and should be normalized (convert crlf => lf)
+*.txt	text
+*.java	text
+*.sql	text
+*.md	text
+*.html	text
+*.htm	text
+*.jsp	text
+*.js	text
+*.xml	text
+*.xsd	text
+* text=auto
+*.iml   text
